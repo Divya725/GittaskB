@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Hi Hello i am a3 file
+>>>>>>> first

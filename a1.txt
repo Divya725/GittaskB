@@ -1,1 +1,3 @@
-Hi, I am a1 file
+<<<<<<< HEAD
+Hi, I am a1 file.
+>>>>>>> first
